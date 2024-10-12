@@ -1,6 +1,6 @@
 # put yours
-API_ID = 23197400
-API_HASH = "800195ecdeaf371e5c3ee539f452e4b0"
+API_ID = 
+API_HASH = ""
 
 # =============[upgrades]================
 # default is 5 level you can change it your self
